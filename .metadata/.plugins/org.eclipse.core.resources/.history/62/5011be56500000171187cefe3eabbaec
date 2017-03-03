@@ -1,0 +1,13 @@
+package core;
+
+public class Main {
+
+	public static void main(String[] args) {
+<<<<<<< HEAD
+		System.out.println("Heello");
+=======
+		System.out.println("Helloo");
+>>>>>>> 01b0800d0f9b5af6da0ab7854d38804b4ef00b55
+	}
+
+}
