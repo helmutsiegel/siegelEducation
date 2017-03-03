@@ -3,7 +3,7 @@ package core;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Heelllo");
+		System.out.println("Heelllo "+MathematicFunctions.mySqrt(5));
 	}
 
 }
